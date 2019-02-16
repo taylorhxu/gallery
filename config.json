@@ -11,6 +11,14 @@
     {
       "width": 1280,
       "height": 851,
+      "path": "./photos/Barcelona, Spain 2019/3.jpg",
+      "compressed_path": "./photos/Barcelona, Spain 2019/3.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Barcelona, Spain 2019/3.placeholder.jpg"
+    },
+    {
+      "width": 1280,
+      "height": 851,
       "path": "./photos/Barcelona, Spain 2019/1.jpg",
       "compressed_path": "./photos/Barcelona, Spain 2019/1.min.jpg",
       "compressed": false,
@@ -19,12 +27,20 @@
   ],
   "Asia": [
     {
-      "width": 3008,
-      "height": 2000,
-      "path": "./photos/Asia/_DSC9584.jpg",
-      "compressed_path": "./photos/Asia/_DSC9584.min.jpg",
+      "width": 1280,
+      "height": 851,
+      "path": "./photos/Asia/4.jpg",
+      "compressed_path": "./photos/Asia/4.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Asia/_DSC9584.placeholder.jpg"
+      "placeholder_path": "./photos/Asia/4.placeholder.jpg"
+    },
+    {
+      "width": 1280,
+      "height": 851,
+      "path": "./photos/Asia/5.jpg",
+      "compressed_path": "./photos/Asia/5.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Asia/5.placeholder.jpg"
     }
   ]
 }
