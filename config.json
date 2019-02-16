@@ -23,6 +23,14 @@
       "compressed_path": "./photos/Barcelona, Spain 2019/1.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Barcelona, Spain 2019/1.placeholder.jpg"
+    },
+    {
+      "width": 1280,
+      "height": 851,
+      "path": "./photos/Barcelona, Spain 2019/0.jpg",
+      "compressed_path": "./photos/Barcelona, Spain 2019/0.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Barcelona, Spain 2019/0.placeholder.jpg"
     }
   ],
   "Asia": [
