@@ -8,5 +8,15 @@
       "compressed": false,
       "placeholder_path": "./photos/Barcelona, Spain 2019/_DSC0992.placeholder.jpg"
     }
+  ],
+  "Asia": [
+    {
+      "width": 3008,
+      "height": 2000,
+      "path": "./photos/Asia/_DSC9584.jpg",
+      "compressed_path": "./photos/Asia/_DSC9584.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Asia/_DSC9584.placeholder.jpg"
+    }
   ]
 }
