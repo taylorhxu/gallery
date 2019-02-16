@@ -2,11 +2,19 @@
   "Barcelona, Spain 2019": [
     {
       "width": 3008,
-      "height": 2000,
-      "path": "./photos/Barcelona, Spain 2019/_DSC0992.jpg",
-      "compressed_path": "./photos/Barcelona, Spain 2019/_DSC0992.min.jpg",
+      "height": 1999,
+      "path": "./photos/Barcelona, Spain 2019/men_in_sun-min.jpg",
+      "compressed_path": "./photos/Barcelona, Spain 2019/men_in_sun-min.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Barcelona, Spain 2019/_DSC0992.placeholder.jpg"
+      "placeholder_path": "./photos/Barcelona, Spain 2019/men_in_sun-min.placeholder.jpg"
+    },
+    {
+      "width": 3008,
+      "height": 2000,
+      "path": "./photos/Barcelona, Spain 2019/Untitled 2-min.jpg",
+      "compressed_path": "./photos/Barcelona, Spain 2019/Untitled 2-min.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Barcelona, Spain 2019/Untitled 2-min.placeholder.jpg"
     }
   ],
   "Asia": [
