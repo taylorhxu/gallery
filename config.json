@@ -1,1 +1,92 @@
-{}
+{
+  "Portfolio": [
+    {
+      "width": 1280,
+      "height": 853,
+      "path": "./photos/Portfolio/iceland.jpg",
+      "compressed_path": "./photos/Portfolio/iceland.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Portfolio/iceland.placeholder.jpg"
+    },
+    {
+      "width": 1280,
+      "height": 853,
+      "path": "./photos/Portfolio/paris.jpg",
+      "compressed_path": "./photos/Portfolio/paris.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Portfolio/paris.placeholder.jpg"
+    },
+    {
+      "width": 1280,
+      "height": 853,
+      "path": "./photos/Portfolio/mont.jpg",
+      "compressed_path": "./photos/Portfolio/mont.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Portfolio/mont.placeholder.jpg"
+    },
+    {
+      "width": 1280,
+      "height": 851,
+      "path": "./photos/Portfolio/4.jpg",
+      "compressed_path": "./photos/Portfolio/4.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Portfolio/4.placeholder.jpg"
+    },
+    {
+      "width": 1279,
+      "height": 847,
+      "path": "./photos/Portfolio/italy.jpg",
+      "compressed_path": "./photos/Portfolio/italy.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Portfolio/italy.placeholder.jpg"
+    },
+    {
+      "width": 1280,
+      "height": 851,
+      "path": "./photos/Portfolio/5.jpg",
+      "compressed_path": "./photos/Portfolio/5.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Portfolio/5.placeholder.jpg"
+    },
+    {
+      "width": 1280,
+      "height": 853,
+      "path": "./photos/Portfolio/s.jpg",
+      "compressed_path": "./photos/Portfolio/s.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Portfolio/s.placeholder.jpg"
+    },
+    {
+      "width": 1280,
+      "height": 851,
+      "path": "./photos/Portfolio/2.jpg",
+      "compressed_path": "./photos/Portfolio/2.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Portfolio/2.placeholder.jpg"
+    },
+    {
+      "width": 1280,
+      "height": 851,
+      "path": "./photos/Portfolio/3.jpg",
+      "compressed_path": "./photos/Portfolio/3.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Portfolio/3.placeholder.jpg"
+    },
+    {
+      "width": 1280,
+      "height": 851,
+      "path": "./photos/Portfolio/1.jpg",
+      "compressed_path": "./photos/Portfolio/1.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Portfolio/1.placeholder.jpg"
+    },
+    {
+      "width": 1280,
+      "height": 851,
+      "path": "./photos/Portfolio/0.jpg",
+      "compressed_path": "./photos/Portfolio/0.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Portfolio/0.placeholder.jpg"
+    }
+  ]
+}
