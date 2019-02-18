@@ -51,6 +51,16 @@
       "placeholder_path": "./photos/Asia/5.placeholder.jpg"
     }
   ],
+  "Monte Carlo, Monaco 2018": [
+    {
+      "width": 1280,
+      "height": 853,
+      "path": "./photos/Monte Carlo, Monaco 2018/1.jpg",
+      "compressed_path": "./photos/Monte Carlo, Monaco 2018/1.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Monte Carlo, Monaco 2018/1.placeholder.jpg"
+    }
+  ],
   "Europe": [
     {
       "width": 1280,
