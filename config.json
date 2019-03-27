@@ -27,14 +27,6 @@
     {
       "width": 1280,
       "height": 851,
-      "path": "./photos/Portfolio/0 2.jpg",
-      "compressed_path": "./photos/Portfolio/0 2.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Portfolio/0 2.placeholder.jpg"
-    },
-    {
-      "width": 1280,
-      "height": 851,
       "path": "./photos/Portfolio/4.jpg",
       "compressed_path": "./photos/Portfolio/4.min.jpg",
       "compressed": false,
