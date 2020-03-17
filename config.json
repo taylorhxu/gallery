@@ -25,6 +25,14 @@
       "placeholder_path": "./photos/Portfolio/mont.placeholder.jpg"
     },
     {
+      "width": 2304,
+      "height": 1536,
+      "path": "./photos/Portfolio/reflection.jpg",
+      "compressed_path": "./photos/Portfolio/reflection.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Portfolio/reflection.placeholder.jpg"
+    },
+    {
       "width": 1280,
       "height": 851,
       "path": "./photos/Portfolio/4.jpg",
@@ -47,6 +55,14 @@
       "compressed_path": "./photos/Portfolio/5.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Portfolio/5.placeholder.jpg"
+    },
+    {
+      "width": 6000,
+      "height": 4000,
+      "path": "./photos/Portfolio/market.jpg",
+      "compressed_path": "./photos/Portfolio/market.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Portfolio/market.placeholder.jpg"
     },
     {
       "width": 1280,
@@ -79,6 +95,14 @@
       "compressed_path": "./photos/Portfolio/1.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Portfolio/1.placeholder.jpg"
+    },
+    {
+      "width": 6000,
+      "height": 4000,
+      "path": "./photos/Portfolio/bruge.jpg",
+      "compressed_path": "./photos/Portfolio/bruge.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Portfolio/bruge.placeholder.jpg"
     }
   ]
 }
