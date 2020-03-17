@@ -1,12 +1,52 @@
 {
   "analog": [
     {
+      "width": 3088,
+      "height": 2048,
+      "path": "./photos/analog/8.jpg",
+      "compressed_path": "./photos/analog/8.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/analog/8.placeholder.jpg"
+    },
+    {
+      "width": 3088,
+      "height": 2048,
+      "path": "./photos/analog/9.jpg",
+      "compressed_path": "./photos/analog/9.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/analog/9.placeholder.jpg"
+    },
+    {
       "width": 1280,
       "height": 849,
       "path": "./photos/analog/4.jpg",
       "compressed_path": "./photos/analog/4.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/analog/4.placeholder.jpg"
+    },
+    {
+      "width": 2740,
+      "height": 1830,
+      "path": "./photos/analog/5.jpg",
+      "compressed_path": "./photos/analog/5.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/analog/5.placeholder.jpg"
+    },
+    {
+      "width": 2740,
+      "height": 1830,
+      "path": "./photos/analog/7.jpg",
+      "compressed_path": "./photos/analog/7.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/analog/7.placeholder.jpg"
+    },
+    {
+      "width": 2740,
+      "height": 1830,
+      "path": "./photos/analog/6.jpg",
+      "compressed_path": "./photos/analog/6.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/analog/6.placeholder.jpg"
     },
     {
       "width": 1280,
