@@ -67,6 +67,14 @@
       "placeholder_path": "./photos/Portfolio/reflection.placeholder.jpg"
     },
     {
+      "width": 4896,
+      "height": 3264,
+      "path": "./photos/Portfolio/DSCF2693 2.jpg",
+      "compressed_path": "./photos/Portfolio/DSCF2693 2.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Portfolio/DSCF2693 2.placeholder.jpg"
+    },
+    {
       "width": 1280,
       "height": 851,
       "path": "./photos/Portfolio/4.jpg",
