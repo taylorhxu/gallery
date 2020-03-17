@@ -1,4 +1,38 @@
 {
+  "analog": [
+    {
+      "width": 1280,
+      "height": 849,
+      "path": "./photos/analog/4.jpg",
+      "compressed_path": "./photos/analog/4.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/analog/4.placeholder.jpg"
+    },
+    {
+      "width": 1280,
+      "height": 855,
+      "path": "./photos/analog/2.jpg",
+      "compressed_path": "./photos/analog/2.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/analog/2.placeholder.jpg"
+    },
+    {
+      "width": 1280,
+      "height": 849,
+      "path": "./photos/analog/3.jpg",
+      "compressed_path": "./photos/analog/3.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/analog/3.placeholder.jpg"
+    },
+    {
+      "width": 1280,
+      "height": 855,
+      "path": "./photos/analog/1.jpg",
+      "compressed_path": "./photos/analog/1.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/analog/1.placeholder.jpg"
+    }
+  ],
   "Portfolio": [
     {
       "width": 1280,
@@ -103,16 +137,6 @@
       "compressed_path": "./photos/Portfolio/bruge.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Portfolio/bruge.placeholder.jpg"
-    }
-  ],
-  "Travel": [
-    {
-      "width": 6000,
-      "height": 4000,
-      "path": "./photos/Travel/market.jpg",
-      "compressed_path": "./photos/Travel/market.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Travel/market.placeholder.jpg"
     }
   ]
 }
