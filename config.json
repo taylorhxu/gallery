@@ -3,14 +3,6 @@
     {
       "width": 3088,
       "height": 2048,
-      "path": "./photos/analog/8.jpg",
-      "compressed_path": "./photos/analog/8.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/analog/8.placeholder.jpg"
-    },
-    {
-      "width": 3088,
-      "height": 2048,
       "path": "./photos/analog/9.jpg",
       "compressed_path": "./photos/analog/9.min.jpg",
       "compressed": false,
@@ -74,6 +66,14 @@
     }
   ],
   "Portfolio": [
+    {
+      "width": 3936,
+      "height": 2624,
+      "path": "./photos/Portfolio/DSC08198.jpg",
+      "compressed_path": "./photos/Portfolio/DSC08198.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Portfolio/DSC08198.placeholder.jpg"
+    },
     {
       "width": 1280,
       "height": 853,
@@ -177,6 +177,14 @@
       "compressed_path": "./photos/Portfolio/1.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Portfolio/1.placeholder.jpg"
+    },
+    {
+      "width": 6000,
+      "height": 4000,
+      "path": "./photos/Portfolio/DSCF1595 2.jpeg",
+      "compressed_path": "./photos/Portfolio/DSCF1595 2.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/Portfolio/DSCF1595 2.placeholder.jpeg"
     },
     {
       "width": 6000,
