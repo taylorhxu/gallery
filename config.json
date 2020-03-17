@@ -104,5 +104,15 @@
       "compressed": false,
       "placeholder_path": "./photos/Portfolio/bruge.placeholder.jpg"
     }
+  ],
+  "Travel": [
+    {
+      "width": 6000,
+      "height": 4000,
+      "path": "./photos/Travel/market.jpg",
+      "compressed_path": "./photos/Travel/market.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Travel/market.placeholder.jpg"
+    }
   ]
 }
